@@ -1,0 +1,26 @@
+Frequência Semanal de Treino por Sexo
+O gráfico de barras empilhadas que compara a frequência semanal de treino por sexo mostra que, embora a distribuição seja relativamente equilibrada, há uma predominância de homens que treinam 7 vezes por semana. No entanto, as mulheres estão mais propensas a treinar com menos frequência, como 3 a 5 vezes por semana. Esse dado sugere que, em geral, os homens na nossa base de dados tendem a aderir a uma rotina de exercícios mais intensa, enquanto as mulheres adotam um plano de treino mais moderado.
+
+Distribuição de Métricas Chave
+Os gráficos de rosca para cada métrica (sexo, IMC, idade, frequência semanal de treino, e estado) revelam a composição da nossa base de clientes:
+
+Sexo: A base de clientes é majoritariamente masculina.
+
+IMC (Índice de Massa Corporal): A maioria dos clientes se encontra na faixa de sobrepeso ou obesidade, o que indica que a busca por um estilo de vida mais saudável e perda de peso é um fator de motivação para a maioria dos nossos clientes.
+
+Idade: A maior parte dos clientes tem entre 30 e 40 anos, sugerindo que esse é o principal público-alvo do serviço.
+
+Frequência Semanal de Treino: A maioria dos clientes treina entre 3 e 5 vezes por semana.
+
+Estado: A maior parte dos clientes está "Ativa", o que indica uma alta taxa de retenção.
+
+Tendência do Tempo de Exercício por Idade
+A análise da linha que mostra a soma do tempo médio de exercício por idade indica que o tempo dedicado ao exercício tende a diminuir à medida que a idade avança. Esse padrão pode ser devido a diversos fatores, como responsabilidades familiares e profissionais, problemas de saúde, ou menor disponibilidade de tempo.
+
+Relação entre Idade e Tempo de Exercício
+O gráfico de linha que relaciona a idade média com o tempo de exercício mostra que, à medida que o tempo de exercício aumenta, a média de idade tende a diminuir. Clientes mais jovens tendem a se exercitar por períodos mais longos. Isso pode ser reflexo do entusiasmo de quem está começando a se exercitar, e também da maior disponibilidade de tempo ou energia.
+
+Relação entre Preço do Plano e Tempo de Exercício
+O gráfico de colunas empilhadas que compara o preço do plano com o tempo médio de exercício demonstra uma relação direta: quanto mais caro o plano, maior o tempo dedicado ao exercício. Essa correlação pode indicar que clientes que investem mais financeiramente também têm um maior comprometimento com a rotina de exercícios.
+
+Essa análise fornece uma visão clara dos padrões e comportamentos dos nossos clientes, o que pode ser fundamental para a tomada de decisões estratégicas, como a criação de planos de treino específicos para cada público-alvo ou a implementação de estratégias de retenção mais eficazes.
