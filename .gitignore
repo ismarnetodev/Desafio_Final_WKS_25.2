@@ -1,7 +1,4 @@
-pyproject.toml
-
 .venv/
-
 __pycache__/
 *.pyc
 *.pyd
